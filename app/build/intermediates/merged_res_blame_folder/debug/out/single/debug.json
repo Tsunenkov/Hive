@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onelevel_five.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\onelevel_five.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hive.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\hive.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twolevel_eight.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\twolevel_eight.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_imgtest.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\imgtest.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_points_green.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\style_points_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_previewdialog2.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\previewdialog2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_previewdialog.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\previewdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_points.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\style_points.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onelevel_zero.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\onelevel_zero.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_level1.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\level1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twolevel_two.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\twolevel_two.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_gamelevels.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\button_gamelevels.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_universal.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\universal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_spashscreen.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\spashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twolevel_nine.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\twolevel_nine.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onelevel_nine.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\onelevel_nine.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onelevel_eight.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\onelevel_eight.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_stroke_black95_press_white.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\button_stroke_black95_press_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialogend2.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\dialogend2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_main_background2.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\main_background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_previewdialog1.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\previewdialog1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_btn_sroke_black95_press_white.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\style_btn_sroke_black95_press_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_stroke_white_press_blue.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\button_stroke_white_press_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twolevel_six.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\twolevel_six.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_previewbackgrounddone.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\previewbackgrounddone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_btn_white.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\style_btn_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twolevel_one.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\twolevel_one.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twolevel_four.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\twolevel_four.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_previewimgtwo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\previewimgtwo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twolevel_seven.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\twolevel_seven.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_gamelevels.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\gamelevels.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onelevel_four.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\onelevel_four.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onelevel_two.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\onelevel_two.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialogend.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\dialogend.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twolevel_five.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\twolevel_five.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_style_btn_white_blue_press.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\style_btn_white_blue_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\anim_alpha.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_btn_sroke_black95.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\style_btn_sroke_black95.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onelevel_six.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\onelevel_six.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onelevel_three.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\onelevel_three.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_true.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\img_true.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_style_btn_black60.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\style_btn_black60.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_table.JPG.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\table.JPG"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onelevel_one.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\onelevel_one.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_img_universal.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\style_img_universal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_false.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\img_false.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onelevel_seven.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\onelevel_seven.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_btn_black95.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\style_btn_black95.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twolevel_three.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\twolevel_three.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_previewimgone.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\previewimgone.png"
+    }
+]
